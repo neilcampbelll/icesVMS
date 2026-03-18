@@ -35,5 +35,5 @@ vms_post <- function(url, body = list(), retry = TRUE, verbose = FALSE, use_toke
 
 api_url <- function() {
   # make an option?
-  "https://taf.ices.dk/vms/api"
+  "https://data.ices.dk/vms/api"
 }
